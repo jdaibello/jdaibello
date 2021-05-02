@@ -4,4 +4,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdaibello&repo=dscatalog-bootcamp-devsuperior)](https://github.com/jdaibello/dscatalog-bootcamp-devsuperior)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdaibello&repo=bds-dslearn)](https://github.com/jdaibello/bds-dslearn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdaibello&repo=loja-virtual)](https://github.com/jdaibello/loja-virtual)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdaibello&repo=dev-quiz-nlw5)](https://github.com/jdaibello/dev-quiz-nlw5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jdaibello&curso-flutter)](https://github.com/jdaibello/curso-flutter)
